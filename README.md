@@ -5,7 +5,9 @@ Students: Hamza, Omar, Ahmed, Christain & Chandan
 What do the files contain?:
 
 NAO Progession Final: All Functions of the Robot
+
 Sensors: All the Tactile Sensors of the Robot
+
 NAO Functions & Sensors: Merged files of both previous ones.
 
 We first did the functions and sensors sepeartely as we did not want code to clash.
