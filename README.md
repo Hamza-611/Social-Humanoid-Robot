@@ -10,5 +10,9 @@ Sensors: All the Tactile Sensors of the Robot
 
 NAO Functions & Sensors: Merged files of both previous ones.
 
-We first did the functions and sensors sepeartely as we did not want code to clash.
+We first did the functions and sensors separately as we did not want code to clash.
 Lastly, we merged it once all sensors & functions were working.
+
+Any issues: 
+
+Email: ST20196363@outlook.cardiffmet.ac.uk
